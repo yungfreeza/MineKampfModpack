@@ -1,0 +1,13 @@
+name = "BetterNether: New Dawn"
+filename = "better-nether-21.0.22-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fxX3RlL5/versions/uEuN3BGt/better-nether-21.0.22-fabric.jar"
+hash-format = "sha512"
+hash = "fed32025f3525b9fe8c1c236b6585bfcab4f611d64c5ad33ded4c4c5606b17818a93a12b645393a32e5cbfe6a8f8576220ab680c30347636730a412a0df2fbff"
+
+[update]
+[update.modrinth]
+mod-id = "fxX3RlL5"
+version = "uEuN3BGt"

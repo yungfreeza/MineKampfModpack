@@ -1,0 +1,13 @@
+name = "Hybrid API [HAPI]"
+filename = "hapi-fabric-1.21.1-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yv9f5EAG/versions/mMaZauss/hapi-fabric-1.21.1-1.1.3.jar"
+hash-format = "sha512"
+hash = "9f87e6c9a9ecb1daac8fdb7595550d5420a4533df044545c3c1f93bb0f12856cb5c496beffdabb0fc80c7b74cc97ed5c7f07f1ad6db1ffa7f270f2c2284cd31d"
+
+[update]
+[update.modrinth]
+mod-id = "yv9f5EAG"
+version = "mMaZauss"

@@ -1,0 +1,13 @@
+name = "BetterEnd: New Dawn"
+filename = "better-end-21.0.23-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IcERKldh/versions/MEZC9Oqj/better-end-21.0.23-fabric.jar"
+hash-format = "sha512"
+hash = "9601e08988bc857a7c01631a928774642fbb82ad4c71305101de28a23f0ff38bd9d9af4989a0bcc3332c2f38a1804d30225be5dae59fa24bf294d16963af446e"
+
+[update]
+[update.modrinth]
+mod-id = "IcERKldh"
+version = "MEZC9Oqj"

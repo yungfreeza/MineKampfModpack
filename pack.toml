@@ -1,0 +1,13 @@
+name = "MineKampf"
+author = "freeza"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d24edf6109e8f395db3860ae061b46aaaeb6223223cc15b06837e4efa3a459bf"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.1"

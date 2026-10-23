@@ -1,0 +1,13 @@
+name = "Simple Hats Collection"
+filename = "simplehatscollection-fabric-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DTu5bnpl/versions/zQ8xsEJt/simplehatscollection-fabric-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "69d9b8b11b0a44f47ab0a51c0e3157d9edf7592172a3d1532e809a5f72821e11fa118055a3c3cf90a0e1aa881aa04aed6760c85b44fda9f977ce424b9df79a58"
+
+[update]
+[update.modrinth]
+mod-id = "DTu5bnpl"
+version = "zQ8xsEJt"

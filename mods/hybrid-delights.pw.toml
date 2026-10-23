@@ -1,0 +1,13 @@
+name = "Hybrid Delights"
+filename = "hybrid_delights-fabric-1.21.1-1.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WR49BBCu/versions/1Pi1snnz/hybrid_delights-fabric-1.21.1-1.3.4.jar"
+hash-format = "sha512"
+hash = "56962f55ebafc210c561e0135983683b59670b723a625572f4af602208fdbaef54d7a0ca2c984160edac799a5c6946537128f047bc057638aa9fedf0a6111d14"
+
+[update]
+[update.modrinth]
+mod-id = "WR49BBCu"
+version = "1Pi1snnz"

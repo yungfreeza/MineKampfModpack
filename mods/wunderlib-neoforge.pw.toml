@@ -1,0 +1,13 @@
+name = "WunderLib: New Dawn"
+filename = "wunderlib-21.0.10-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HZmhgdJk/versions/xJ6ulkHD/wunderlib-21.0.10-fabric.jar"
+hash-format = "sha512"
+hash = "65d5e47219dc2213a851ec39e2b1e276a4d26dbdd1ff149e9a1f4791b0ceede847723735f30b3fd9fd7cf58f95314d94f45b839c12c2e3196cca9fadbc7d7442"
+
+[update]
+[update.modrinth]
+mod-id = "HZmhgdJk"
+version = "xJ6ulkHD"
