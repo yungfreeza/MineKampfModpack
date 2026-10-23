@@ -156,6 +156,11 @@ hash = "d57822e45c5f3d2d2fdc859d850ed251529ad7df29ae71de7a0ed6dc645dd8a2"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "41b788a45271b2803fc597ef76cf82600fe64f477ad94597b71a14567d377e55"
+metafile = true
+
+[[files]]
 file = "mods/consumableoptimizer.pw.toml"
 hash = "bef645de937293edf7106531bef94e6f93756046d28c1b91a38925e0c0daefb6"
 metafile = true
@@ -616,6 +621,11 @@ hash = "d73c8bca68094f1249d7e71e764ea04506028832dd7cbf63ab821845dc64ea5a"
 metafile = true
 
 [[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "25e292eee7c56c03250edb865982432008d52d1b71e4fa2768ec00bd9843f3f4"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
 metafile = true
@@ -657,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinitycore.pw.toml"
-hash = "892723616199fb76936d9ab8d8a18914f85da6ec31c2232b2bc6693046d2e6ed"
+hash = "1ff6eaef529e91da628b4ed73bd2f8599517e8c77609f34dd0b23e43c2fdf7a1"
 metafile = true
 
 [[files]]
