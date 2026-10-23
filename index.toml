@@ -11,6 +11,11 @@ hash = "76c941bf21fbb0e0cc5284892635e0ccf53eaf4863dbbed3c517db3f0b94d56c"
 metafile = true
 
 [[files]]
+file = "mods/all-the-heads.pw.toml"
+hash = "d68dea2010ff0462bfd1fcb51afeef3e41eb78b302e48d57a036427d3f2af851"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "9a7596969b984ae9c6932066c00d11759fdb2a337c44b445ec1ec9f27ae0324c"
 metafile = true
