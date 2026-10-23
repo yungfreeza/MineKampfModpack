@@ -636,6 +636,11 @@ hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
 metafile = true
 
 [[files]]
+file = "mods/streams-reflowing.pw.toml"
+hash = "89f9b6ea02aaa0e19b37e73bfc069d891f12e888b26045e03bd825a6a5296ab4"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "a7861588c61c1bd59bb96c88c5ab760ce8bd626599d142bee05a21480c0f3dca"
 metafile = true
