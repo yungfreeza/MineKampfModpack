@@ -656,6 +656,11 @@ hash = "76c319b18147464969222ce63823f32ea49d87e337d6c82b20568efe0ef2f331"
 metafile = true
 
 [[files]]
+file = "mods/trinitycore.pw.toml"
+hash = "892723616199fb76936d9ab8d8a18914f85da6ec31c2232b2bc6693046d2e6ed"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
@@ -739,3 +744,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
 metafile = true
+
+[[files]]
+file = "trinitycore-1.0.0.jar"
+hash = "644540f06b5903fe7c2217542d99d03a91ccf1877cf7e4f2bf58e196f3b4bdd6"
