@@ -21,6 +21,11 @@ hash = "9a7596969b984ae9c6932066c00d11759fdb2a337c44b445ec1ec9f27ae0324c"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "27d324b3f12775b691f8af07daae4b11f2d55f92b451108ced9baf13bc0d9993"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "bc5bb9c17c071be6f2abb8f678a1f4f82252971070c8f9b2249169558999dc64"
 metafile = true
