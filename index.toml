@@ -536,16 +536,6 @@ hash = "f3b53deec5d01ca0329636b0aecdca67eb4367ac9f1b275e491f425f6ff8d989"
 metafile = true
 
 [[files]]
-file = "mods/pneumono_core.pw.toml"
-hash = "9be080be11214e809cb69d400e69ccd20f535835c02acfe49aed61dfecb2c619"
-metafile = true
-
-[[files]]
-file = "mods/pneumono_gravestones.pw.toml"
-hash = "e87eb7f513d2d0f6b5f3a98bac1e51d249f5a69a140808ebb04d5495cada262a"
-metafile = true
-
-[[files]]
 file = "mods/prickle.pw.toml"
 hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
 metafile = true
