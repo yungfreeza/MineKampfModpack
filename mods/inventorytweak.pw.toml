@@ -1,0 +1,13 @@
+name = "InventoryTweak"
+filename = "inventorytweak-fabric-1.21-3.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jGVzcXaf/versions/HWDaUdVP/inventorytweak-fabric-1.21-3.3.jar"
+hash-format = "sha512"
+hash = "97c7fb936ca1cc6041bf2f76cd902b4881ea0570dfa11853577441d762e3530061e71a83ab520106da5122085e4236b4e7e4d2f71acdee08e919d0159d6e1637"
+
+[update]
+[update.modrinth]
+mod-id = "jGVzcXaf"
+version = "HWDaUdVP"

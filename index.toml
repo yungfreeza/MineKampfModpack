@@ -31,6 +31,11 @@ hash = "bc5bb9c17c071be6f2abb8f678a1f4f82252971070c8f9b2249169558999dc64"
 metafile = true
 
 [[files]]
+file = "mods/anvians-lib.pw.toml"
+hash = "ca97d86159c3020cb581f4881dfc8df15f65fc553e61f764a450d1853366887c"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
@@ -92,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/betterend-neoforge.pw.toml"
-hash = "f635cd43ab577820b19f4375aa0e3bf86cb6d298652e998f79af2d05dd3b50ae"
+hash = "0b2fcfe98fa4799d6398cfab738ffe6087e1670f622a5db75831917fdb4c93f3"
 metafile = true
 
 [[files]]
 file = "mods/betternether-neoforge.pw.toml"
-hash = "2acdff6faab79fb566eee8357988b1c1deea4f042bd9b63d0f31fe5671817df4"
+hash = "cf709c677f55e9f4585aa8e1ce6a5c70e2040612e231fcaf775f092c0af729e6"
 metafile = true
 
 [[files]]
@@ -222,17 +227,17 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "aaa8bfb54ebb318d8da647c9644f0460b61920b053a8af4039bc936726aac12d"
+hash = "03de1437c72c9033d59bec8419b933c789d2dc8cc44a820602352035daf710c6"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "2a6f14119715ba8a036f3b27f08912d3c93566f3d2310d1cddbbea9b96621bbb"
+hash = "1a9b24186ef18bda0c146a2befab566e082cd1a68ccba4f4b2fa036f65b18d8b"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "303030f2d151e71c0f88b55d4e026486c443da76e3d1aa7a8e0082461a1ae1bd"
+hash = "95286601fd0a77431b6521de52cef98396e466b7f88513e58f8c3588a0e2ca41"
 metafile = true
 
 [[files]]
@@ -363,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9a98d8e1a0e8453f43fa01b8c0c0de6b93058b4784c9c2f54f0fbda9588da682"
+metafile = true
+
+[[files]]
+file = "mods/inventorytweak.pw.toml"
+hash = "572c08d2fc80f907fd3492f9082819ec77aa60406c773b88bf727e3e618c946e"
 metafile = true
 
 [[files]]
@@ -532,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "f3b53deec5d01ca0329636b0aecdca67eb4367ac9f1b275e491f425f6ff8d989"
+hash = "56fb5b72196b4a7e041a2ae21ed97bef05d27029a41a160813eaa345af70cb0f"
 metafile = true
 
 [[files]]
@@ -661,6 +671,11 @@ hash = "e3dc696707c09b616bd7e4f44f05d80fbd8faaec8229195077820c68f3435ad9"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "ba23aeeab120d079eb6b5d6058643ea15e6a81bc5b4cfed85c75dea8b0d2029f"
+metafile = true
+
+[[files]]
 file = "mods/trample-no-more.pw.toml"
 hash = "8971b0ec0a0edc2e9f72a3a24f8a3ea4aff9e3a1cf8f475e8b49f009ac05a083"
 metafile = true
@@ -682,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "d9f9e2991e06d3657c6400112d4ad36f65d3859c0ffde16083e0c33be4db9163"
+hash = "b21a2f06c0aed472b2fd0e56a3fb9427a63f748af6605a44e562276cb8792982"
 metafile = true
 
 [[files]]
@@ -693,6 +708,11 @@ metafile = true
 [[files]]
 file = "mods/view-distance-fix.pw.toml"
 hash = "3deb2f1128a593eb00319d4f341a40bdd54fda6e32531992067107ae24185665"
+metafile = true
+
+[[files]]
+file = "mods/visible-traders.pw.toml"
+hash = "fe4addc232571cfc0446884f680935124fdea0c58c96879ed9fbc3e2e2b34e04"
 metafile = true
 
 [[files]]
@@ -722,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
-hash = "61561bb6628d27e7242e5867b0b19c823e0978a73080d235743a5729eb4eb0c9"
+hash = "3deab62787710f92099d5500e46d38f710e059189688fa4b41706de125580758"
 metafile = true
 
 [[files]]
@@ -743,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+metafile = true
+
+[[files]]
+file = "mods/your-items-are-safe.pw.toml"
+hash = "f589a05290d9bcbfb51640e355b2188c420c3fcc7b241c4ed812c6d6bdd06038"
 metafile = true
 
 [[files]]
