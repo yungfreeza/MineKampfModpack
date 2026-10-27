@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://yungfreeza.github.io/MineKampfModpack/trinitycore-1.0.0.jar"
 hash-format = "sha512"
-hash = "d233ef03a592baed69634b2e9f3ec0d7eb6ef277e475d05ba4eb5ab1471922e14d1e17d16050a4fd3cd1802efcb1f6e2c0213247da8f1b85d82289e9bf499a4c"
+hash = "31c62d51063dff394bb19fcb516237b65c9cab48d9694f5b01002a2659effc555939dbf6c66bba8a90e14ff90868679459c9384eaaf3a317afb2fa36b4e5980e"

@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinitycore.pw.toml"
-hash = "1ff6eaef529e91da628b4ed73bd2f8599517e8c77609f34dd0b23e43c2fdf7a1"
+hash = "9d0afc0bd17869dd7755fe2f46306901e6f543ba1895170cc12583097a0943e8"
 metafile = true
 
 [[files]]
@@ -782,4 +782,4 @@ metafile = true
 
 [[files]]
 file = "trinitycore-1.0.0.jar"
-hash = "644540f06b5903fe7c2217542d99d03a91ccf1877cf7e4f2bf58e196f3b4bdd6"
+hash = "5f9f0df90388e15d8155987a0f881760efd1c2cbf709623983b52877a5e39dde"
