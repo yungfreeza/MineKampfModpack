@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "27d324b3f12775b691f8af07daae4b11f2d55f92b451108ced9baf13bc0d9993"
+hash = "050ab41090da1bc716b5c302cc44ee6645458ee324e44cb7b6f705572e406468"
 metafile = true
 
 [[files]]
@@ -83,11 +83,6 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "7c45c50ac2431db0dd3697e16a180a55ac0f2a753540b0bd310eb593b8b0bd0a"
-metafile = true
-
-[[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-hash = "b97914d02e3e24091a3fed92803b409ba5a3773668d81292b99e1cd735184996"
 metafile = true
 
 [[files]]
@@ -157,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/cinematic-respawn.pw.toml"
-hash = "526ec6e3986d5a67ce7966892d56b2c74e89db88becb632a3e2d189c8ca725c8"
+hash = "0a46b33f25f4a55d522cd355f51498d510e4778ee36b479a919f339807b490fb"
 metafile = true
 
 [[files]]
@@ -172,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "41b788a45271b2803fc597ef76cf82600fe64f477ad94597b71a14567d377e55"
+hash = "8f518d4596d5b0facac4b67803561fc0e44ea00f96222c0b8ee11de8da652fb6"
 metafile = true
 
 [[files]]
@@ -262,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "63a837f04a8e81484fc361d2bbbb011c1b4a8925c03c7c03661a55dc33f4516b"
+hash = "64b0e51c64210a054da20af7c0f45efcda68c25972e52ece86f823511b9451a4"
 metafile = true
 
 [[files]]
@@ -392,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "77f114a46936c05d3922d901aba2657353a5a60367b2240dc423fa887f5f4161"
+hash = "c47822bb681f5b6e24cc2d11d7961131079f6737d8483fa6fc1ef035f2120b48"
 metafile = true
 
 [[files]]
@@ -442,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "85d8ee0787927bd4992487f499018494a8d8d6978737386d24e2e7c9d4f8c817"
+hash = "3dcc61fd29b6b1e682e41d9de27dd40331eabcc4f507fc489f3547e8b221dd1f"
 metafile = true
 
 [[files]]
@@ -542,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "56fb5b72196b4a7e041a2ae21ed97bef05d27029a41a160813eaa345af70cb0f"
+hash = "11993496610f018fd777af45b14a4f3d6748de1f46307aa3d76ff41b7b62b675"
 metafile = true
 
 [[files]]
@@ -552,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "ce3b477f9cccee1f7a8e3c9923ab7e7cb0856fff06f78be24c4185bf6676afa0"
+hash = "989cde9caba6f1b61aae36f9048725335a8da1d90ad33dc57a58ef3c04d6858b"
 metafile = true
 
 [[files]]
@@ -617,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "3d74d987e377deef32d3971d7c1260cb7bb68ce8bc930f80ed4d9ea3073a35f3"
+hash = "006a4eff494be9b351aaa0ce827f5a0e0ecbae167070e03c2601a9bf4cce5dc1"
 metafile = true
 
 [[files]]
@@ -697,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "b21a2f06c0aed472b2fd0e56a3fb9427a63f748af6605a44e562276cb8792982"
+hash = "a17763690bb43a875602809d78127c96482bebd5e4eebdc2889f625cc9460e96"
 metafile = true
 
 [[files]]
