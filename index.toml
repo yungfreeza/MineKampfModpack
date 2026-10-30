@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/chat_heads.json5"
+hash = "72c031b0846fc862dbd1b0c77c43fc3b50dc7fbcf3f953e0a2f7141d06b29b28"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "ba7432aebc67e37b6adc4ccd296599dc0fd383f55d2026e79d3f7bb28fc2a89f"
 metafile = true
@@ -169,10 +173,6 @@ metafile = true
 file = "mods/collective.pw.toml"
 hash = "623c7a7f11b2d9d083f81bf47382260c924c47eeb64c8ec921af1c445a2f7d7b"
 metafile = true
-
-[[files]]
-file = "mods/config/chat_heads.json5"
-hash = "72c031b0846fc862dbd1b0c77c43fc3b50dc7fbcf3f953e0a2f7141d06b29b28"
 
 [[files]]
 file = "mods/consumableoptimizer.pw.toml"
