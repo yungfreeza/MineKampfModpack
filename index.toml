@@ -306,11 +306,6 @@ hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
-file = "mods/fowlplay.pw.toml"
-hash = "86db438dc9373f49d0a3cd78dda5aa0413197b528bdd5f078a25bd90a9721d29"
-metafile = true
-
-[[files]]
 file = "mods/fragmentum.pw.toml"
 hash = "a97cad792e9d612bc0ff594dd42c1b74b338957c4a427b8c6f7d5006778e6f67"
 metafile = true
@@ -606,11 +601,6 @@ hash = "ac095f6fbc04eaeebd331f79fa52320d7670c91d5001f923d420d529c5a9d6db"
 metafile = true
 
 [[files]]
-file = "mods/smartbrainlib.pw.toml"
-hash = "f859244dee8cb24d950a915886be27754847b2d216a530a20645a682923ba78c"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "006a4eff494be9b351aaa0ce827f5a0e0ecbae167070e03c2601a9bf4cce5dc1"
 metafile = true
@@ -682,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinitycore.pw.toml"
-hash = "2bfa9155c16a100d04bddd40163999fff0f3c63783119b63a75309ac9c85ea1b"
+hash = "1f119b1460f64e05586ffc62914b6ed734862257ec412bf5ed503c917f1d9c78"
 metafile = true
 
 [[files]]
@@ -782,4 +772,4 @@ metafile = true
 
 [[files]]
 file = "trinitycore-1.0.5.jar"
-hash = "bc0be4ebbcecf38a74cb909c73388328deada9d90e10f7f92e5842d0423827f9"
+hash = "7410234b9d23e1a755b25e34aea3cb371727315045b26c9bd36d3d292fddd495"
