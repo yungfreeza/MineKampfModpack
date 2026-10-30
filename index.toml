@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/chat_heads.json5"
+hash = "72c031b0846fc862dbd1b0c77c43fc3b50dc7fbcf3f953e0a2f7141d06b29b28"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "ba7432aebc67e37b6adc4ccd296599dc0fd383f55d2026e79d3f7bb28fc2a89f"
 metafile = true
@@ -22,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "050ab41090da1bc716b5c302cc44ee6645458ee324e44cb7b6f705572e406468"
+hash = "ab9fb482fa87b1b9317b354eb4221a6045343033792593c840d351d89f0d5eeb"
 metafile = true
 
 [[files]]
@@ -167,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8f518d4596d5b0facac4b67803561fc0e44ea00f96222c0b8ee11de8da652fb6"
+hash = "623c7a7f11b2d9d083f81bf47382260c924c47eeb64c8ec921af1c445a2f7d7b"
 metafile = true
 
 [[files]]
@@ -387,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c47822bb681f5b6e24cc2d11d7961131079f6737d8483fa6fc1ef035f2120b48"
+hash = "5489d5a716e223ed4512f471410c3e82bebf81ae3f68c61fd9123dd2b0f92fb3"
 metafile = true
 
 [[files]]
@@ -492,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "617d023de4cb2cb33cfa188d27de194161c23193e40eb4d18a758880c40f419d"
+hash = "4894ebb8bdd2494a9a6826cb885a7002a74bb55c23670b9db37c400fe785eec8"
 metafile = true
 
 [[files]]
@@ -682,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinitycore.pw.toml"
-hash = "9d0afc0bd17869dd7755fe2f46306901e6f543ba1895170cc12583097a0943e8"
+hash = "2bfa9155c16a100d04bddd40163999fff0f3c63783119b63a75309ac9c85ea1b"
 metafile = true
 
 [[files]]
@@ -781,5 +785,5 @@ hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
 metafile = true
 
 [[files]]
-file = "trinitycore-1.0.0.jar"
-hash = "5f9f0df90388e15d8155987a0f881760efd1c2cbf709623983b52877a5e39dde"
+file = "trinitycore-1.0.5.jar"
+hash = "bc0be4ebbcecf38a74cb909c73388328deada9d90e10f7f92e5842d0423827f9"
