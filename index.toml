@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "ab9fb482fa87b1b9317b354eb4221a6045343033792593c840d351d89f0d5eeb"
+hash = "55595bbf8286301f8c5232347553e098530cdb429332b6b687ae3835761d4bac"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "623c7a7f11b2d9d083f81bf47382260c924c47eeb64c8ec921af1c445a2f7d7b"
+hash = "28f057b2f63428207248e47ac110aca9e9d7f17736cd9dd3a31d169e8fedd26f"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "b3b952c428b252390ae8ddc4450d49e5b0cbe947a214ba4774e1598132c835bf"
+hash = "24790ee69c64243481f6b248a05315f2311d8fdaa757e7fa327685e6b950711e"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5489d5a716e223ed4512f471410c3e82bebf81ae3f68c61fd9123dd2b0f92fb3"
+hash = "055d4e19bfa2296fdbc9742c7818246170d1098527a992cbdac4cde164312a7b"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "3dcc61fd29b6b1e682e41d9de27dd40331eabcc4f507fc489f3547e8b221dd1f"
+hash = "692453b7904b20c215fcdbd8bd6dd5df6bdca5de859e44b93604d41799d131a1"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/nether-descent.pw.toml"
-hash = "fef798e652d8d7a95bf42a7a7176649da8ac18eafd1302c67243291649dad63c"
+hash = "3138fa5d1a01908feadd9c4ca3672ab3aed1f351b62756a0eda9b7ff11beab90"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "920f38e9647202e8f98de3343fe062b835986d9243283c7333ad3f303201edd8"
+hash = "013dca1bafa6658c3a25872ee02c35d268e1632c6fb8a694504e283c829c5e64"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "89f9b6ea02aaa0e19b37e73bfc069d891f12e888b26045e03bd825a6a5296ab4"
+hash = "53694ac8c4cfb043390e8173df6bad02517bfdeadb400c515f30f21e2edb40d2"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinitycore.pw.toml"
-hash = "1f119b1460f64e05586ffc62914b6ed734862257ec412bf5ed503c917f1d9c78"
+hash = "68977899f7f452136d24f725c84e5e0bdc6772c9136c162cb0611faa29e64f39"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/walksylib.pw.toml"
-hash = "98cbdd11ea62c584f4000217cc11fe3d1a3f36863755a61bcf1d20710acef99f"
+hash = "c1f704276ad6a14dc82bfef2fb7d26c6f263b717bdec7d103b5ba21cea67654e"
 metafile = true
 
 [[files]]
@@ -751,11 +751,6 @@ hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
 
 [[files]]
-file = "mods/your-items-are-safe.pw.toml"
-hash = "f589a05290d9bcbfb51640e355b2188c420c3fcc7b241c4ed812c6d6bdd06038"
-metafile = true
-
-[[files]]
 file = "mods/zconfig.pw.toml"
 hash = "8f353eed81effd44cc2de464f33e3c772129b15389d2427167c174784400bd23"
 metafile = true
@@ -771,5 +766,5 @@ hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
 metafile = true
 
 [[files]]
-file = "trinitycore-1.0.5.jar"
-hash = "7410234b9d23e1a755b25e34aea3cb371727315045b26c9bd36d3d292fddd495"
+file = "trinitycore-1.0.6.jar"
+hash = "a31fc504fe5cb6d64879a6e2f86c833fd4271d64f951a47412bec9ae0404cb45"
