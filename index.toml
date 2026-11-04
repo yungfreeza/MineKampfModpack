@@ -31,11 +31,6 @@ hash = "bc5bb9c17c071be6f2abb8f678a1f4f82252971070c8f9b2249169558999dc64"
 metafile = true
 
 [[files]]
-file = "mods/anvians-lib.pw.toml"
-hash = "ca97d86159c3020cb581f4881dfc8df15f65fc553e61f764a450d1853366887c"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
@@ -67,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "d4e5754ace89491be15f81ec923c0a6a7be37a344cc6677a0ce4d013c2d7fbb7"
+hash = "f8bf884ab53c3fd72d4b849f6636288c20486e53f109a5c0f4fd83266959a345"
 metafile = true
 
 [[files]]
@@ -78,11 +73,6 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
-metafile = true
-
-[[files]]
-file = "mods/better-mount-hud.pw.toml"
-hash = "7c45c50ac2431db0dd3697e16a180a55ac0f2a753540b0bd310eb593b8b0bd0a"
 metafile = true
 
 [[files]]
@@ -166,11 +156,6 @@ hash = "d57822e45c5f3d2d2fdc859d850ed251529ad7df29ae71de7a0ed6dc645dd8a2"
 metafile = true
 
 [[files]]
-file = "mods/collective.pw.toml"
-hash = "28f057b2f63428207248e47ac110aca9e9d7f17736cd9dd3a31d169e8fedd26f"
-metafile = true
-
-[[files]]
 file = "mods/consumableoptimizer.pw.toml"
 hash = "bef645de937293edf7106531bef94e6f93756046d28c1b91a38925e0c0daefb6"
 metafile = true
@@ -222,17 +207,17 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "03de1437c72c9033d59bec8419b933c789d2dc8cc44a820602352035daf710c6"
+hash = "d623b1ea999cf3eb870fcfe891c1904aed9b12224f024997f9197bbe6fd1a923"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "1a9b24186ef18bda0c146a2befab566e082cd1a68ccba4f4b2fa036f65b18d8b"
+hash = "f1b50f9020e4244e1207c588d34c8efba269683f5532fe810e0096dbe8162282"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "95286601fd0a77431b6521de52cef98396e466b7f88513e58f8c3588a0e2ca41"
+hash = "ce6737abbf97db7ece7ca82397c6a4ee3aea495430ba03b61f4857012c2c3a9f"
 metafile = true
 
 [[files]]
@@ -283,11 +268,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "f2dd3bcc1e38d91445004d43d84ed98f1e6c4c7284f0b91a80ca01129740044a"
-metafile = true
-
-[[files]]
-file = "mods/fast-ip-ping.pw.toml"
-hash = "41847ee47330e54e00164f68f59f6fbc9e6908bf1dd048367c8dd7f7517ed7a3"
 metafile = true
 
 [[files]]
@@ -361,11 +341,6 @@ hash = "9a98d8e1a0e8453f43fa01b8c0c0de6b93058b4784c9c2f54f0fbda9588da682"
 metafile = true
 
 [[files]]
-file = "mods/inventorytweak.pw.toml"
-hash = "572c08d2fc80f907fd3492f9082819ec77aa60406c773b88bf727e3e618c946e"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
 metafile = true
@@ -436,11 +411,6 @@ hash = "692453b7904b20c215fcdbd8bd6dd5df6bdca5de859e44b93604d41799d131a1"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "d12b136e07f6f83a1e199aabe430426d19702c9f69e55731092b5d5c2f3fb69f"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
 metafile = true
@@ -452,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4f7d256a29e93b1620275b39f340d0819de92b744f35b0e53a3dbeb587b9d9bf"
+hash = "cdb9478ac53db245172481f2cadf836efee1e93bbdcb9ba05bd0c7130839f745"
 metafile = true
 
 [[files]]
@@ -462,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "8d013469f5b94e1150927ef3c8d985070222fa61f8c7122173304ffb80363c40"
+hash = "fb61cbe844cc739a6bba30c703c0047f2e21e343f8d4b61e30a27d3bc5cc2840"
 metafile = true
 
 [[files]]
@@ -513,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "97156c7cbfd94c3f457f5ef89ab65f1b963b1559f98fd3923ab40cf8cc21a905"
-metafile = true
-
-[[files]]
-file = "mods/particle-effects.pw.toml"
-hash = "85fc4aea0d94a920ee1f9d8b4cded7ce2b1a947d692a4e21032300a23c191df8"
 metafile = true
 
 [[files]]
@@ -616,16 +581,6 @@ hash = "d73c8bca68094f1249d7e71e764ea04506028832dd7cbf63ab821845dc64ea5a"
 metafile = true
 
 [[files]]
-file = "mods/starter-kit.pw.toml"
-hash = "25e292eee7c56c03250edb865982432008d52d1b71e4fa2768ec00bd9843f3f4"
-metafile = true
-
-[[files]]
-file = "mods/status-effect-bars.pw.toml"
-hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
-metafile = true
-
-[[files]]
 file = "mods/streams-reflowing.pw.toml"
 hash = "53694ac8c4cfb043390e8173df6bad02517bfdeadb400c515f30f21e2edb40d2"
 metafile = true
@@ -656,18 +611,8 @@ hash = "e3dc696707c09b616bd7e4f44f05d80fbd8faaec8229195077820c68f3435ad9"
 metafile = true
 
 [[files]]
-file = "mods/trade-cycling.pw.toml"
-hash = "ba23aeeab120d079eb6b5d6058643ea15e6a81bc5b4cfed85c75dea8b0d2029f"
-metafile = true
-
-[[files]]
-file = "mods/trample-no-more.pw.toml"
-hash = "8971b0ec0a0edc2e9f72a3a24f8a3ea4aff9e3a1cf8f475e8b49f009ac05a083"
-metafile = true
-
-[[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "76c319b18147464969222ce63823f32ea49d87e337d6c82b20568efe0ef2f331"
+hash = "437f142da53062e81dd84c796594e075d0993e88bd31e5b63232acd42bc4f39f"
 metafile = true
 
 [[files]]
@@ -693,11 +638,6 @@ metafile = true
 [[files]]
 file = "mods/view-distance-fix.pw.toml"
 hash = "3deb2f1128a593eb00319d4f341a40bdd54fda6e32531992067107ae24185665"
-metafile = true
-
-[[files]]
-file = "mods/visible-traders.pw.toml"
-hash = "fe4addc232571cfc0446884f680935124fdea0c58c96879ed9fbc3e2e2b34e04"
 metafile = true
 
 [[files]]
