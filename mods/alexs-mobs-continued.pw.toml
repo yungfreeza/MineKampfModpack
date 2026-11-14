@@ -1,13 +1,13 @@
 name = "Alex's Mobs Continued"
-filename = "alexsmobs-2.2.4-fabric+1.21.1.jar"
+filename = "alexsmobs-2.3.0-fabric+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kYIaHHfw/versions/goB1MWfu/alexsmobs-2.2.4-fabric%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/kYIaHHfw/versions/8zRXkBbz/alexsmobs-2.3.0-fabric%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "cc6410ea1d8c1f14934cfe6d6e92fd4898df7621f8ca587412ecb293c1d95109c62472875dd403bae70c7a00465e38fa389aa2ad57ea1870390b94e8ebaa1216"
+hash = "471367d542ba6d0179fb154d934eb32ac11bf85038e4dad1861def275728fabb64e92b3c9cb2bf0324e33b31727bfb3e3630824f69662306d8741f8b352b4a92"
 
 [update]
 [update.modrinth]
 mod-id = "kYIaHHfw"
-version = "goB1MWfu"
+version = "8zRXkBbz"
