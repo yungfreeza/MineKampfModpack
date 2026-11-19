@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0fb3808193da9b587367337d12d202d7b006e2522637a6502913d66a84f8626f"
+hash = "5b999a65cbb3ca23957558a6985a0ae9a5b7e5e28e371222cef3825d0d7f85da"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/cinematic-respawn.pw.toml"
-hash = "0a46b33f25f4a55d522cd355f51498d510e4778ee36b479a919f339807b490fb"
+hash = "dad30e20609e6b58dfc9763b5154b6be04afa6426b3817f66b372a9cf370bae0"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/cultural-delights.pw.toml"
-hash = "0fae92ecf687bcdce84094ff9a9ad6d65375cbf71b42a90b95205525b28de1db"
+hash = "5793d04f929e46848bc96078c15614116bc41df30eb7d7c2c0fb19428f6411bd"
 metafile = true
 
 [[files]]
@@ -202,17 +202,17 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "d623b1ea999cf3eb870fcfe891c1904aed9b12224f024997f9197bbe6fd1a923"
+hash = "9e1ece12e35bbb2b8a0242c8c88a804107525b1325469cbf991d39769a05603e"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "f1b50f9020e4244e1207c588d34c8efba269683f5532fe810e0096dbe8162282"
+hash = "234c7e636f839ef0c4b928de7d81462b024f8b6df1e414fdc421333b3c6fce2a"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "ce6737abbf97db7ece7ca82397c6a4ee3aea495430ba03b61f4857012c2c3a9f"
+hash = "1012af1a9afc38fae5aa574f16fa16df40de1cb38c9fbfcb5dca45b32e1f2500"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "330af6a1ab0fa4c76834c34124ce083ae6c6b9d702dedaa0fa3f2799a41f794c"
+hash = "b86ec63447e76430a2d942293a284d54adba6fe4ff32c367c15e872037bd9a37"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/nether-descent.pw.toml"
-hash = "3138fa5d1a01908feadd9c4ca3672ab3aed1f351b62756a0eda9b7ff11beab90"
+hash = "b7f6d87ae2febab13093824f3f126fb90db2d79c722c70f094704ef90234603c"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "4894ebb8bdd2494a9a6826cb885a7002a74bb55c23670b9db37c400fe785eec8"
+hash = "25113b261f2bc6b11aa209ef469c2f42d5055b6d3d3ddcb9205771669b348fee"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
-hash = "51aaeb7de8f11e556b551802d16bae079a6d3dfb4eb35159bf287c1df09b474c"
+hash = "35ee368ccb2020a30b0c024236ed69b0d8d3d30697502110f777353c48fb4bc2"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "60f6f11a49b7d8c45be4253fc611f14283d8715ffa0294a533344c1599e1acb5"
+hash = "82c2312676126d67c37523a39efa5113e5e5378b011a06075d8e9c57fcb9b93d"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "21c11c8edc75360f97310e1b364ae8cf222599ce930662db9c55c0bbbc71f66f"
+hash = "874b120e04eee1de14b9fcef30c209c9939476acb28eeeda738fecc26f57d883"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinitycore.pw.toml"
-hash = "50f067dfdfe6a74c6377a495a78f9faedf06647132920e6106120905b418d8b4"
+hash = "a3874560748f0441b65b522d5b00eb48f4d047bb1650b3d22e1dc43d29eb2f93"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "442c13fe3b1f0462adf895bbab49388967cafc294f56c57d2d4b1db6b0b24d53"
+hash = "90af0ef891cfeb34d82498cfa71943a63e883fc6f961896ebb10ca78fd366073"
 metafile = true
 
 [[files]]
@@ -692,4 +692,4 @@ metafile = true
 
 [[files]]
 file = "trinitycore-1.1.0.jar"
-hash = "f5f3d2a3d185d7f9c7c275c2484d9a02a16c15d110eeca18648c0d179e455c76"
+hash = "de72e4ac92eab4c8175823f6104379288caa2180ecad6c2cf9cb65adaf41838d"
