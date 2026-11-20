@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "25113b261f2bc6b11aa209ef469c2f42d5055b6d3d3ddcb9205771669b348fee"
+hash = "378ac593a1f8b21f597d58215c0fe52a1cbcb317fd0fbf01f509fb7d320ed291"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "86488986b07582dc9589de8fc39a3d52970898f1ebf211fbe17831e9a8d16bf5"
+hash = "51c12d3e295dd341d494e3fadc26d488f0c6049d7bbba4d19f0cc7dcdf47178d"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
-hash = "35ee368ccb2020a30b0c024236ed69b0d8d3d30697502110f777353c48fb4bc2"
+hash = "f07f73cffebcd23e46af3b9802ed0906987d673826f4008496f783feb834d22f"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinitycore.pw.toml"
-hash = "a3874560748f0441b65b522d5b00eb48f4d047bb1650b3d22e1dc43d29eb2f93"
+hash = "21e5c4b416bc7c213a9b6a00d736065e60429cd560f8fb3b6f8639566c0f267a"
 metafile = true
 
 [[files]]
@@ -691,5 +691,5 @@ hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
 metafile = true
 
 [[files]]
-file = "trinitycore-1.1.0.jar"
-hash = "de72e4ac92eab4c8175823f6104379288caa2180ecad6c2cf9cb65adaf41838d"
+file = "trinitycore-1.1.1.jar"
+hash = "087f096486c9ce70905c8196a1615d463758cf02a31df529d632631c40674cdc"

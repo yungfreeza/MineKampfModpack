@@ -1,8 +1,8 @@
 name = "TrinityCore"
-filename = "trinitycore-1.1.0.jar"
+filename = "trinitycore-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://yungfreeza.github.io/MineKampfModpack/trinitycore-1.1.0.jar"
+url = "https://yungfreeza.github.io/MineKampfModpack/trinitycore-1.1.1.jar"
 hash-format = "sha512"
-hash = "48565471dce03168eeee60ae05767830cbf66f9a70b2d5bd65c6a8fbc9dec79b2a8ffd0a19679af473d5c1e7c4b53650bc06443d83282de9aade9105ddfe24cb"
+hash = "29a542eea4cbd71c00054c2dfd5e595369231cb1d953fd84a15085ebc17098e6c0bda80a6e543d1557a835003006669a049caed695ed6f895ae4964b5b7a2bc7"
